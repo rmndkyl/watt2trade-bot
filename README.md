@@ -1,5 +1,9 @@
 # Watt2Trade Bot
 
+🌐 **Website:** https://www.watt2trade.com/
+🔗 **Referral:** https://rewards.watt2trade.com/?ref=GBCENN
+
+
 > Automated airdrop farming bot by **Layer Airdrop ID (LYID)**
 
 Automated bot for Watt2Trade farming platform — wallet signature auth, daily tasks, social verification, and multi-wallet support.
